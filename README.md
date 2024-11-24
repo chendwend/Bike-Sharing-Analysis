@@ -38,7 +38,8 @@ Packages used in this work:
 - pROC
 
 ### Preparing the Dataset
-Download the daily bike rental from aforementioned source, and place it in the project directory.
+Download the daily bike rental from aforementioned source, and place it in the project directory.  
+Set your project directory in the code.
 
 
 
